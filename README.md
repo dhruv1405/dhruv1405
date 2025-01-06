@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **dhruv1405/dhruv1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,express,nodejs,mongodb,js,python,mysql,vercel,git,figma" />
+  </a>
+</p>
